@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    box-sizing: none;
+
+}
+.col-2{
+    width: 16.66%;
+    background-color: aqua;
+    border: 2px darkblue;
+}
+
+.col-4{
+    width: 33.33%;
+    background-color: darkgrey;
+}
+
+.row{
+    display: flex;
+    height: 15cm;
+    font-size: 30px;
+    text-align: center;
+}
+.selection{
+    display: flex;
+    height: 3cm;
+    text-align: center;
+    font-size: 25px;
+    flex-direction: row;
+    
+    
+
+}
+.end{
+    text-align: center;
+    color: orange;
+    background-color: aqua;
+    height: 4cm;
+}
+.selection a{
+    color: darkblue;
+    
+    
+    
+    
+    
+}
+.row .col-4 .first{
+    color: aqua;
+}
+.row .col-4 .second{
+    background-color: yellow;
+    height: 15cm;
+    color: darkblue;
+}
+.row .col-4 .third{
+    background-color: darkblue;
+    height: 15cm;
+    color: yellow;
+}
+

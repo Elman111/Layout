@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <section class="logo"></section>
+        <section class="contact"></section>
+        <nav>
+     <section class="socila"></section>
+     <section class="navbar"></section>
+        </nav>
+    </header>
+    <main>
+        <section class="information"></section>
+        <div class="rooms"> 
+            <section class="rooms-price"></section>
+    </div>
+    <section class="appointment"></section>
+    <div class="events">
+        <section class="event-time"></section>
+    </div>
+    <section>
+        <section class="address"></section>
+    </section>
+
+    </main>
+    <footer>
+        <section class="purchase"></section>
+        <section class="info">
+            <div class="info-bar"></div>
+        </section>
+    </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <section class="logo"></section>
+        <section class="contact"></section>
+        <nav>
+     <section class="socila"></section>
+     <section class="navbar"></section>
+        </nav>
+    </header>
+    <main>
+        <section class="information"></section>
+        <div class="rooms"> 
+            <section class="rooms-price"></section>
+    </div>
+    <section class="appointment"></section>
+    <div class="events">
+        <section class="event-time"></section>
+    </div>
+    <section>
+        <section class="address"></section>
+    </section>
+
+    </main>
+    <footer>
+        <section class="purchase"></section>
+        <section class="info">
+            <div class="info-bar"></div>
+        </section>
+    </footer>
+</body>
+</html>
